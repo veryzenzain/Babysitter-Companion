@@ -1,6 +1,8 @@
 # babysitter-Companion
 Babysitter/Parent Communication App
 
+App for babysitters faciliating them to send daily reports or emergency alerts to parents in their native languages using translation powered by AI
+
 <img width="575" height="370" alt="Screenshot 2025-12-29 at 11 54 46 PM" src="https://github.com/user-attachments/assets/5689695e-76aa-40b3-8acf-b0462c49168d" />
 
 <img width="575" height="370" alt="Screenshot 2025-12-06 at 11 57 47 PM" src="https://github.com/user-attachments/assets/fedefcc9-f957-4518-b6a1-a829c769767b" />

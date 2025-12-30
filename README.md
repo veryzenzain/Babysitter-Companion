@@ -1,5 +1,5 @@
 # babysitter-app
-CS 260A/160 Group P - Babysitter/Parent Communication App
+Babysitter/Parent Communication App
 
 ## Getting Started
 

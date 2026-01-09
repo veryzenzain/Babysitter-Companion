@@ -53,7 +53,7 @@ A mobile-friendly React app that helps babysitters log childcare events quickly 
 
 ## AI Translation
 
-The app **does not hard-code translations**.
+The app does not hard-code translations.
 
 Instead, it:
 
@@ -63,10 +63,10 @@ Instead, it:
 2. Sends that message to Reagent via an HTTP `POST` request:
    - `message`: full English text.
    - `target_language`: normalized language name (e.g. `Spanish`, `Chinese (Mandarin)`, `Urdu`).
-3. The noggin uses an LLM (`openai/gpt-5-mini`) to translate the text.
+3.  LLM (`openai/gpt-5-mini`) to translate the text.
 4. The app receives plain translated text and displays it in the Parent Reports / Alerts UI.
 
-> The noggin URL and API key are kept out of version control and configured locally.
+> The URL and API key are kept out of version control and configured locally.
 
 ---
 
@@ -80,7 +80,7 @@ Instead, it:
 
 ---
 
-## Project Structure (simplified)
+## Project Structure
 
 ```text
 web/
@@ -88,6 +88,8 @@ web/
     App.jsx      # Main app shell + all page components
     App.css      # Global styles
     main.jsx     # React/Vite entry point
+```
+    
 Key components inside App.jsx:
 
 HomePage – main menu for navigation.
